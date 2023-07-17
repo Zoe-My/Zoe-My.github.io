@@ -7,20 +7,16 @@
     "home_page_url": "https://Zoe-My.github.io",
     "items": [
         {
-            "id": "https://zoe-my.github.io/2023/07/15/%EF%80%9B[200~%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/",
-            "url": "https://zoe-my.github.io/2023/07/15/%EF%80%9B[200~%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/",
-            "title": "",
-            "date_published": "2023-07-15T04:13:36.299Z",
-            "content_html": "<p>## 第一章</p>\n<p>内容</p>\n<hr />\n<p>## 第二章</p>\n<p>内容</p>\n<hr />\n<p>## 参考</p>\n<p><span class=\"exturl\" data-url=\"aHR0cDovL3d3dy5iYWlkdS5jb20=\">www.baidu.com</span></p>\n",
-            "tags": []
-        },
-        {
-            "id": "https://zoe-my.github.io/2023/07/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/",
-            "url": "https://zoe-my.github.io/2023/07/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/",
-            "title": "我的第一篇博客文章",
-            "date_published": "2023-07-15T04:08:15.000Z",
-            "content_html": "",
-            "tags": []
+            "id": "https://zoe-my.github.io/2023/07/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/",
+            "url": "https://zoe-my.github.io/2023/07/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/",
+            "title": "第一天 数据类型-列表、元组",
+            "date_published": "2023-07-17T02:15:36.000Z",
+            "content_html": "<p>#课堂笔记<br />\n ## 列表</p>\n<pre><code class=\"language-Python\">\nlist=[10,19.5,&quot;wisp&quot;,&quot;uu&quot;,True,'wang']\n# 列表\nlist.append(100)\n#追加列表中的数据\nlist.remove(19.2)\n#移除列表中的指定数据\nlist.pop(1)\n#删除索引为‘1’的列表数据\nlist.insert(3,False)\n#在索引为‘3’的位置添加数据\n</code></pre>\n<p>tips:</p>\n<ul>\n<li>数组和列表都使用  <code>[ ]</code> , 但是列表的可以放入任意的类型 ，数组的类型是唯一的，比如整型就是整型</li>\n</ul>\n<p>## 字典</p>\n<pre><code class=\"language-Python\">tuple=(10,15.9,'week',False,&quot;wangh&quot;,100)\n#元组\ntuple.\n\n</code></pre>\n",
+            "tags": [
+                "人工智能",
+                "Python",
+                "零基础学Python语言"
+            ]
         },
         {
             "id": "https://zoe-my.github.io/2020/08/13/computer-science/note/theme-shoka-doc/special/",

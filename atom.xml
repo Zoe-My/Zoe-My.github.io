@@ -8,28 +8,40 @@
     <author>
       <name>ZoeM</name>
     </author>
-    <updated>2023-07-15T04:13:36.299Z</updated>
+    <updated>2023-07-17T02:15:36.000Z</updated>
     <entry>
-        <id>https://zoe-my.github.io/2023/07/15/%EF%80%9B[200~%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
-        <title></title>
-        <link rel="alternate" href="https://zoe-my.github.io/2023/07/15/%EF%80%9B[200~%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-        <content type="html">&lt;p&gt;## 第一章&lt;/p&gt;
-&lt;p&gt;内容&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;## 第二章&lt;/p&gt;
-&lt;p&gt;内容&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;## 参考&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5iYWlkdS5jb20=&#34;&gt;www.baidu.com&lt;/span&gt;&lt;/p&gt;
+        <id>https://zoe-my.github.io/2023/07/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+        <title>第一天 数据类型-列表、元组</title>
+        <link rel="alternate" href="https://zoe-my.github.io/2023/07/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+        <content type="html">&lt;p&gt;#课堂笔记&lt;br /&gt;
+ ## 列表&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-Python&#34;&gt;
+list=[10,19.5,&amp;quot;wisp&amp;quot;,&amp;quot;uu&amp;quot;,True,&#39;wang&#39;]
+# 列表
+list.append(100)
+#追加列表中的数据
+list.remove(19.2)
+#移除列表中的指定数据
+list.pop(1)
+#删除索引为‘1’的列表数据
+list.insert(3,False)
+#在索引为‘3’的位置添加数据
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;tips:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数组和列表都使用  &lt;code&gt;[ ]&lt;/code&gt; , 但是列表的可以放入任意的类型 ，数组的类型是唯一的，比如整型就是整型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;## 字典&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-Python&#34;&gt;tuple=(10,15.9,&#39;week&#39;,False,&amp;quot;wangh&amp;quot;,100)
+#元组
+tuple.
+
+&lt;/code&gt;&lt;/pre&gt;
 </content>
-        <updated>2023-07-15T04:13:36.299Z</updated>
-    </entry>
-    <entry>
-        <id>https://zoe-my.github.io/2023/07/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
-        <title>我的第一篇博客文章</title>
-        <link rel="alternate" href="https://zoe-my.github.io/2023/07/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-        <content type="html"></content>
-        <updated>2023-07-15T04:08:15.000Z</updated>
+        <category term="人工智能" scheme="https://zoe-my.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/" />
+        <category term="Python" scheme="https://zoe-my.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/Python/" />
+        <category term="零基础学Python语言" scheme="https://zoe-my.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/Python/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6Python%E8%AF%AD%E8%A8%80/" />
+        <updated>2023-07-17T02:15:36.000Z</updated>
     </entry>
     <entry>
         <id>https://zoe-my.github.io/2020/08/13/computer-science/note/theme-shoka-doc/special/</id>
